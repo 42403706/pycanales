@@ -1,0 +1,2 @@
+# pycanales
+Cálculo de canales
