@@ -1,0 +1,10 @@
+setup.py
+pycanales/__init__.py
+pycanales/energia_especifica.py
+pycanales/flujo_GV.py
+pycanales/flujo_uniforme.py
+pycanales/fuerza_especifica.py
+pycanales.egg-info/PKG-INFO
+pycanales.egg-info/SOURCES.txt
+pycanales.egg-info/dependency_links.txt
+pycanales.egg-info/top_level.txt
